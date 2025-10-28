@@ -11,7 +11,7 @@ function App() {
         <h2 className="text-2xl font-extrabold uppercase tracking-wide text-gray-900">
           Servicio Nacional de Aprendizaje
         </h2>
-        <h3 className="text-md text-gray-600 mt-1">CGMLTI - Bogotá</h3>
+        <h3 className="text-md text-gray-600 mt-1">CGMLTI - Bogotá D.C</h3>
       </div>
       <Programas />
       <Contacto />
